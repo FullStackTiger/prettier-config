@@ -1,0 +1,8 @@
+{
+  "name": "@fullstacktiger/prettier-config",
+  "version": "1.0.0",
+  "description": "React Typescript Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:fullstacktiger/prettier-config.git",
+  "license": "MIT"
+}
